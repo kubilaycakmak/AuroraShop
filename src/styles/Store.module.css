@@ -1,0 +1,11 @@
+.Store {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  min-height: 96vh;
+  background-color: #FFFEFF;
+  padding: 32px 0;
+}
